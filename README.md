@@ -70,10 +70,4 @@ Let us know if you identify bugs. Please include:
 
 Before submitting, make sure it's not related to your specific configuration (antivirus, firewalls, etc.).
 
-## Feature Requests
-
-If you need functionality that others could also benefit from, let us know. We'll try to integrate it in future releases.
-
-If you're a developer planning to extend the code, please reach out so we can integrate it into the official tree.
-
 
