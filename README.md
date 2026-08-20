@@ -1,6 +1,7 @@
-# WinMTR-Official
+# WinMTR-No-Official
 
-Thank you for downloading WinMTR v0.93 中文版!
+Thank you for downloading WinMTR v0.93 Chinese version!
+This is an unofficial Chinese translation version. If there is any infringement, please contact us for deletion.
 
 ## About
 
@@ -17,13 +18,14 @@ WinMTR is offered as Open Source Software under GPL v2.
 
 ## Installation
 
-You will get a `.zip` archive containing two folders: `WinMTR-32` and `WinMTR-64`. Both contain two files: `WinMTR.exe` and `README.md`.
+Select the version supported by your computer and click to download the.exe file below.
 
-Just extract the `WinMTR.exe` for your platform (32 or 64 bit) and click to run it. If you don't know what version you need, just click on both files and see which one works ;-)
 
-As you can see, WinMTR requires no other installation effort.
+- [Go to Release_x32 Directory](.Release_x32)
+- [Go to Release_x64 Directory](.Release_x64)
 
-**Tip:** You can copy `WinMTR.exe` to `Windows/System32` so it's accessible via the command line (cmd).
+
+
 
 ## Usage
 
@@ -42,22 +44,11 @@ winmtr --help        # See available options
 winmtr github.com    # Trace a host
 ```
 
-## Troubleshooting
-
-**I type in the address and nothing happens.**
-Usually this has to do with antivirus or firewall applications. Disable them when debugging or using WinMTR, or configure them properly.
-
-**I get an error saying the program cannot be executed.**
-You are running the 64-bit version on a 32-bit platform. Try the `WinMTR.exe` in the `WinMTR_x32` folder.
-
-**I get an error not listed here.**
-Please report it to us to make sure it's not a bug in the application.
-
 ## Changelog
 
 | Date | Version | Changes |
 |------|---------|---------|
-| 2011-01-31 | v0.93 | 修改中文 |
+| 2026-08-19 | v0.93 | 修改中文 |
 | 2011-01-31 | v0.92 | Fixed reporting errors for very slow connections |
 | 2011-01-11 | v0.91 | Released under GPL v2 by popular request |
 | 2010-12-24 | v0.9 | Support for 32 and 64 bit OS. Works on Windows 7 as regular user. Various bug fixes. |
@@ -85,6 +76,4 @@ If you need functionality that others could also benefit from, let us know. We'l
 
 If you're a developer planning to extend the code, please reach out so we can integrate it into the official tree.
 
-## Contact
 
-Email: contact AT winmtr DOT net
