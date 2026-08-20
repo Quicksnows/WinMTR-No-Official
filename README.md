@@ -21,16 +21,8 @@ WinMTR is offered as Open Source Software under GPL v2.
 Select the version supported by your computer and click to download the.exe file below.
 
 
-
-- [Go to Release_x32 Directory](./Release_x32)
-- [Go to Release_x64 Directory](./Release_x64)
-
-
-<<<<<<< HEAD
-=======
-- [Go to Release_x32 Directory](./Release_x32)
-- [Go to Release_x64 Directory](./Release_x64)
->>>>>>> abd417d44a5d507a1718c5b2cc7e98cdf2a3d936
+- [Go to Release_x32 Directory](.Release_x32)
+- [Go to Release_x64 Directory](.Release_x64)
 
 
 
